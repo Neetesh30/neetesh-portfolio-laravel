@@ -32,7 +32,14 @@
       </div>
 
       <div class="col-lg-6">
-
+        
+        <div class="progress">
+          <span class="skill">Laravel <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+        
         <div class="progress">
           <span class="skill">PHP <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
@@ -47,12 +54,6 @@
           </div>
         </div>
 
-        <div class="progress">
-          <span class="skill">Laravel <i class="val">80%</i></span>
-          <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
 
       </div>
 
