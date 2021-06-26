@@ -17,7 +17,7 @@
     @include('master.skills')
     <!-- End Skills -->
 
-    <!-- ======= Interests ======= -->
+    <!-- ======= Interests  ======= -->
     @include('master.interests')
     <!-- End Interests -->
 
