@@ -17,13 +17,6 @@
     @include('master.skills')
     <!-- End Skills -->
 
-    <!-- ======= Interests  ======= -->
-    @include('master.interests')
-    <!-- End Interests -->
-
-    <!-- ======= Testimonials ======= -->
-    @include('master.testimonials')
-    <!-- End Testimonials  -->
 
   </section><!-- End About Section -->
 
