@@ -17,10 +17,10 @@
         <div class="row">
           <div class="col-lg-6">
             <ul>
-              <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 20 Nov 1992</li>
+              <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 30 Nov 1992</li>
               <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.neeteshsingh.online</li>
               <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +91 9768 300 737</li>
-              <li><i class="icofont-rounded-right"></i> <strong>City:</strong> City : Mumbai, India</li>
+              <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Mumbai, India</li>
             </ul>
           </div>
           <div class="col-lg-6">

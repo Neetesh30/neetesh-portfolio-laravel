@@ -50,7 +50,7 @@
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
             <h4>Senior Web Developer specialist</h4>
-            <h5>2019 - Present</h5>
+            <h5>2019 - 2021</h5>
             <p><em>Adengage, Mumbai  </em></p>
             <p>
             <ul>
