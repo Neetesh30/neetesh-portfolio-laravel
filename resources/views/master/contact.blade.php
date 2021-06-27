@@ -42,7 +42,7 @@
         </div>
       </div>
 
-      <form action="sendmail" method="post" role="form" class="php-email-form mt-4">
+      <form action="sendmail" method="post" role="form" class=" mt-4">
         @csrf
         <div class="form-row">
           <div class="col-md-6 form-group">
