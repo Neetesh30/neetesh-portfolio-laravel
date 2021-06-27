@@ -21,4 +21,3 @@ Route::get('/', function () {
 
 Route::POST('/sendmail',[SendMailController::class,'index']);
 
-Route::VIEW('/test','test');
